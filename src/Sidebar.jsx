@@ -27,7 +27,7 @@ return(
     <>
     <Container>
         <div className="upper1">
-            <h1>Kartik's Store</h1>
+            <h1>Bhunesh's Store</h1>
         </div>
         <div className="upper2">
             <Link to ="/"><h3>Home</h3></Link>
